@@ -7,4 +7,4 @@
 ![](images/d3.png)
 ![](images/d4.png)
 ![](images/d5.png)
-![](images/d6.png)
+![](images/d6.jpeg)
